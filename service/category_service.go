@@ -2,7 +2,7 @@ package service
 
 import (
 	"context"
-	"silocorp/golang-restful-api/model/web"
+	"github.com/horcrux12/golang-restful-api/model/web"
 )
 
 type CategoryService interface {

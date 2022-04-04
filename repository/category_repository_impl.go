@@ -4,8 +4,8 @@ import (
 	"context"
 	"database/sql"
 	"errors"
-	"silocorp/golang-restful-api/helper"
-	"silocorp/golang-restful-api/model/domain"
+	"github.com/horcrux12/golang-restful-api/helper"
+	"github.com/horcrux12/golang-restful-api/model/domain"
 )
 
 type CategoryRepositoryImpl struct {

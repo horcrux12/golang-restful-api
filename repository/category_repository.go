@@ -3,7 +3,7 @@ package repository
 import (
 	"context"
 	"database/sql"
-	"silocorp/golang-restful-api/model/domain"
+	"github.com/horcrux12/golang-restful-api/model/domain"
 )
 
 type CategoryRepository interface {

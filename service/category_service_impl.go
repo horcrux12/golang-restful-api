@@ -4,10 +4,10 @@ import (
 	"context"
 	"database/sql"
 	"github.com/go-playground/validator/v10"
-	"silocorp/golang-restful-api/helper"
-	"silocorp/golang-restful-api/model/domain"
-	"silocorp/golang-restful-api/model/web"
-	"silocorp/golang-restful-api/repository"
+	"github.com/horcrux12/golang-restful-api/helper"
+	"github.com/horcrux12/golang-restful-api/model/domain"
+	"github.com/horcrux12/golang-restful-api/model/web"
+	"github.com/horcrux12/golang-restful-api/repository"
 )
 
 type CategoryServiceImpl struct {

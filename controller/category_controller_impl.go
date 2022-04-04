@@ -3,9 +3,9 @@ package controller
 import (
 	"github.com/julienschmidt/httprouter"
 	"net/http"
-	"silocorp/golang-restful-api/helper"
-	"silocorp/golang-restful-api/model/web"
-	"silocorp/golang-restful-api/service"
+	"github.com/horcrux12/golang-restful-api/helper"
+	"github.com/horcrux12/golang-restful-api/model/web"
+	"github.com/horcrux12/golang-restful-api/service"
 	"strconv"
 )
 
